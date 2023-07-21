@@ -1,0 +1,4 @@
+baseURL = 'https://shokiyokota.github.io/myHomePage/
+languageCode = 'ja'
+title = 'My New Hugo Site'
+theme = 'ananke'
