@@ -1,4 +1,4 @@
-baseURL = 'https://ShokiYokota.github.io/myHomePage/
+baseURL = 'https://github.com/ShokiYokota/myHomePage/'
 languageCode = 'ja'
 title = 'My New Hugo Site'
 theme = 'ananke'
